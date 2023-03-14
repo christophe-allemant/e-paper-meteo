@@ -15,4 +15,6 @@ You have to register on the website to get the appid that allow you to use the A
 
 For the e-paper HAT, the library used is waveshare_epd in the Python part of https://github.com/waveshare/e-Paper
 
+Automatisation by using cron :
 
+*/30 * * * * launch.sh
